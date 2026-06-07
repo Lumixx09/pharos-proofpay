@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Foundry / Solidity
+out/
+cache/
+
+# Offchain generated invoices
+invoices/
+
+# Environment configurations and private keys
+.env
+.env.local
